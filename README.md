@@ -4,9 +4,9 @@ A Python implementation of a concurrent <u>directed</u> graph data structure wit
 
 ## Features
 
-- **Thread-Safe Operations**: Supports concurrent modifications and queries on the graph.
-- **Parallel BFS Traversal**: Leverages multiprocessing to perform a BFS traversal on large graphs.
 - **Flexible Graph Representation**: Allows for easy addition, removal, and modification of vertices and edges.
+- **Parallel BFS Traversal**: Leverages multiprocessing to perform a BFS traversal on large graphs.
+
 
 ## Installation
 
